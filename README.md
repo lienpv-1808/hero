@@ -1,1 +1,2 @@
 # hero
+learn git basic
